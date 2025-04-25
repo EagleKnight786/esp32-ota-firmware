@@ -1,5 +1,5 @@
 {
-  "latest": "Clock_0_17",
-  "url": "https://raw.githubusercontent.com/EagleKnight786/esp32-ota-firmware/main/bin/Clock_0_17.bin",
+  "latest": "clock_0_17",
+  "url": "https://raw.githubusercontent.com/EagleKnight786/esp32-ota-firmware/main/bin/clock_0_17.bin",
   "bitmaps": "https://api.github.com/repos/EagleKnight786/esp32-ota-firmware/contents/bitmaps"
 }
